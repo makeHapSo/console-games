@@ -1,0 +1,3 @@
+﻿  wuziqi.cpp
+E:\Visual Studio\wuziqi\wuziqi\wuziqi.cpp(315): warning C4715: “wuziqi::panduan”: 不是所有的控件路径都返回值
+  wuziqi.vcxproj -> E:\Visual Studio\wuziqi\Debug\wuziqi.exe
